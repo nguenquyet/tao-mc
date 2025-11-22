@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo MC AI",
+  "description": "Một ứng dụng web tiên tiến sử dụng Gemini để tạo ra hình ảnh người dẫn chương trình (MC) AI chuyên nghiệp, phục vụ cho ngành truyền hình và sáng tạo nội dung số.",
+  "requestFramePermissions": []
+}
